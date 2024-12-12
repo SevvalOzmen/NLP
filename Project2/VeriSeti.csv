@@ -1,0 +1,51 @@
+Set No,Sentence 1 (Similar),Sentence 2 (Similar),Sentence 3 (Different)
+1,1. set: Ahmet yemek yiyor.,1. set: Ahmet yemek hazırlıyor.,1. set: Ahmet denizde yüzüyor.
+2,2. set: Ayşe yemek yiyor.,2. set: Ayşe yemek hazırlıyor.,2. set: Ayşe sinemada film izliyor.
+3,3. set: Köpek bahçede dolaşıyor.,3. set: Köpek bahçede oynuyor.,3. set: Köpek denizde yüzüyor.
+4,4. set: Köpek televizyon izliyor.,4. set: Köpek film izliyor.,4. set: Köpek kahve içiyor.
+5,5. set: Araba bahçede dolaşıyor.,5. set: Araba bahçede oynuyor.,5. set: Araba dağda kamp yapıyor.
+6,6. set: Ayşe masanın üstünde oturuyor.,6. set (benzer): Ayşe masanın üstünde oturuyor.,6. set: Ayşe dağda kamp yapıyor.
+7,7. set: Ahmet bahçede dolaşıyor.,7. set: Ahmet bahçede oynuyor.,7. set: Ahmet kahve içiyor.
+8,8. set: Köpek bahçede dolaşıyor.,8. set: Köpek bahçede oynuyor.,8. set: Köpek bisiklet sürüyor.
+9,9. set: Ayşe yemek yiyor.,9. set: Ayşe yemek hazırlıyor.,9. set: Ayşe kahve içiyor.
+10,10. set: Araba masanın üstünde oturuyor.,10. set (benzer): Araba masanın üstünde oturuyor.,10. set: Araba markette alışveriş yapıyor.
+11,11. set: Ahmet masanın üstünde oturuyor.,11. set (benzer): Ahmet masanın üstünde oturuyor.,11. set: Ahmet bisiklet sürüyor.
+12,12. set: Köpek kitap okuyor.,12. set: Köpek dergi okuyor.,12. set: Köpek sinemada film izliyor.
+13,13. set: Çocuk bahçede dolaşıyor.,13. set: Çocuk bahçede oynuyor.,13. set: Çocuk denizde yüzüyor.
+14,14. set: Ayşe televizyon izliyor.,14. set: Ayşe film izliyor.,14. set: Ayşe denizde yüzüyor.
+15,15. set: Fatma kitap okuyor.,15. set: Fatma dergi okuyor.,15. set: Fatma denizde yüzüyor.
+16,16. set: Fatma masanın üstünde oturuyor.,16. set (benzer): Fatma masanın üstünde oturuyor.,16. set: Fatma sinemada film izliyor.
+17,17. set: Çocuk yemek yiyor.,17. set: Çocuk yemek hazırlıyor.,17. set: Çocuk sinemada film izliyor.
+18,18. set: Ahmet bahçede dolaşıyor.,18. set: Ahmet bahçede oynuyor.,18. set: Ahmet bisiklet sürüyor.
+19,19. set: Kedi bahçede dolaşıyor.,19. set: Kedi bahçede oynuyor.,19. set: Kedi markette alışveriş yapıyor.
+20,20. set: Köpek kitap okuyor.,20. set: Köpek dergi okuyor.,20. set: Köpek markette alışveriş yapıyor.
+21,21. set: Ahmet yemek yiyor.,21. set: Ahmet yemek hazırlıyor.,21. set: Ahmet kahve içiyor.
+22,22. set: Ahmet yemek yiyor.,22. set: Ahmet yemek hazırlıyor.,22. set: Ahmet parkta koşuyor.
+23,23. set: Ahmet masanın üstünde oturuyor.,23. set (benzer): Ahmet masanın üstünde oturuyor.,23. set: Ahmet dağda kamp yapıyor.
+24,24. set: Çocuk bahçede oynuyor.,24. set (benzer): Çocuk bahçede oynuyor.,24. set: Çocuk dağda kamp yapıyor.
+25,25. set: Fatma masanın üstünde oturuyor.,25. set (benzer): Fatma masanın üstünde oturuyor.,25. set: Fatma markette alışveriş yapıyor.
+26,26. set: Köpek masanın üstünde oturuyor.,26. set (benzer): Köpek masanın üstünde oturuyor.,26. set: Köpek markette alışveriş yapıyor.
+27,27. set: Çocuk televizyon izliyor.,27. set: Çocuk film izliyor.,27. set: Çocuk sinemada film izliyor.
+28,28. set: Ayşe televizyon izliyor.,28. set: Ayşe film izliyor.,28. set: Ayşe denizde yüzüyor.
+29,29. set: Ali kitap okuyor.,29. set: Ali dergi okuyor.,29. set: Ali denizde yüzüyor.
+30,30. set: Kadın kitap okuyor.,30. set: Kadın dergi okuyor.,30. set: Kadın bisiklet sürüyor.
+31,31. set: Kedi bahçede dolaşıyor.,31. set: Kedi bahçede oynuyor.,31. set: Kedi bisiklet sürüyor.
+32,32. set: Çocuk bahçede dolaşıyor.,32. set: Çocuk bahçede oynuyor.,32. set: Çocuk markette alışveriş yapıyor.
+33,33. set: Kadın televizyon izliyor.,33. set: Kadın film izliyor.,33. set: Kadın bisiklet sürüyor.
+34,34. set: Köpek yemek yiyor.,34. set: Köpek yemek hazırlıyor.,34. set: Köpek dağda kamp yapıyor.
+35,35. set: Fatma masanın üstünde oturuyor.,35. set (benzer): Fatma masanın üstünde oturuyor.,35. set: Fatma parkta koşuyor.
+36,36. set: Kadın yemek yiyor.,36. set: Kadın yemek hazırlıyor.,36. set: Kadın sinemada film izliyor.
+37,37. set: Fatma bahçede dolaşıyor.,37. set: Fatma bahçede oynuyor.,37. set: Fatma dağda kamp yapıyor.
+38,38. set: Kedi bahçede dolaşıyor.,38. set: Kedi bahçede oynuyor.,38. set: Kedi sinemada film izliyor.
+39,39. set: Fatma televizyon izliyor.,39. set: Fatma film izliyor.,39. set: Fatma markette alışveriş yapıyor.
+40,40. set: Kedi yemek yiyor.,40. set: Kedi yemek hazırlıyor.,40. set: Kedi kahve içiyor.
+41,41. set: Ahmet masanın üstünde oturuyor.,41. set (benzer): Ahmet masanın üstünde oturuyor.,41. set: Ahmet sinemada film izliyor.
+42,42. set: Kadın yemek yiyor.,42. set: Kadın yemek hazırlıyor.,42. set: Kadın sinemada film izliyor.
+43,43. set: Köpek yemek yiyor.,43. set: Köpek yemek hazırlıyor.,43. set: Köpek bisiklet sürüyor.
+44,44. set: Kadın masanın üstünde oturuyor.,44. set (benzer): Kadın masanın üstünde oturuyor.,44. set: Kadın denizde yüzüyor.
+45,45. set: Ali bahçede dolaşıyor.,45. set: Ali bahçede oynuyor.,45. set: Ali parkta koşuyor.
+46,46. set: Kadın masanın üstünde oturuyor.,46. set (benzer): Kadın masanın üstünde oturuyor.,46. set: Kadın denizde yüzüyor.
+47,47. set: Kadın kitap okuyor.,47. set: Kadın dergi okuyor.,47. set: Kadın markette alışveriş yapıyor.
+48,48. set: Ahmet televizyon izliyor.,48. set: Ahmet film izliyor.,48. set: Ahmet parkta koşuyor.
+49,49. set: Adam masanın üstünde oturuyor.,49. set (benzer): Adam masanın üstünde oturuyor.,49. set: Adam parkta koşuyor.
+50,50. set: Ahmet kitap okuyor.,50. set: Ahmet dergi okuyor.,50. set: Ahmet bisiklet sürüyor.
